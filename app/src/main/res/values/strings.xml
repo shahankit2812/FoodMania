@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodMania</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Back</string>
+    <string name="title_activity_main">Restaurants</string>
+    <string name="title_activity_layout_for_list">layout_for_list</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_custom_adapter">CustomAdapter</string>
+    <string name="title_activity_food_item">FoodItem</string>
+</resources>
